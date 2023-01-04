@@ -69,7 +69,7 @@ Resources:
 
 Follow and support me:
 
-Contact email: dudubertoldev@gmail.com
-Twitter: https://twitter.com/dudubertoldev
-Itch.io: https://dudubertoldev.itch.io
-GitHub: https://github.com/DuduBertol
+ - Contact email: dudubertoldev@gmail.com
+ - Twitter: https://twitter.com/dudubertoldev
+ - Itch.io: https://dudubertoldev.itch.io
+ - GitHub: https://github.com/DuduBertol
