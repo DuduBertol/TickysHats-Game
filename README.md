@@ -1,6 +1,6 @@
 # TickysHats-Game
 
-  - TICKY'S HATS -
+  - TICKY'S HATS 
   
 Help Ticky to recover his hats that were kidnapped by enemies.
 
