@@ -62,7 +62,7 @@ Sounds:
 - Dusty Room
 Resources:
 - VS code
-- Unit
+- Unity
 - Unity Asset Store
 - Aseprite
 - LootLocker
