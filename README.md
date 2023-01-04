@@ -1,12 +1,12 @@
 # TickysHats-Game
 
-  TICKY'S HATS
+  - TICKY'S HATS -
   
 Help Ticky to recover his hats that were kidnapped by enemies.
 
-DOWNLOAD LINK (ANDROID): {LINK}
+ - DOWNLOAD LINK (ANDROID): {LINK}
 
-DOWNLOAD LINK (WINDOWS, MAC, LINUX): {LINK}
+ - DOWNLOAD LINK (WINDOWS, MAC, LINUX): {LINK}
 
 OBS: For PC VERSION several features are limited. Including ADS and its rewards!
 
