@@ -4,9 +4,9 @@
   
 Help Ticky to recover his hats that were kidnapped by enemies.
 
- - DOWNLOAD LINK (ANDROID): {LINK}
+ - [DOWNLOAD FOR ANDROID] {LINK}
 
- - [{DOWNLOAD LINK (WINDOWS, MAC, LINUX)}](https://www.mediafire.com/file/imksy0e6pm34k9u/Ticky's+Hats.rar/file)
+ - [DOWNLOAD FOR WINDOWS, MAC, LINUX](https://www.mediafire.com/file/imksy0e6pm34k9u/Ticky's+Hats.rar/file)
 
 OBS: For PC VERSION several features are limited. Including ADS and its rewards!
 
