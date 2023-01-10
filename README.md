@@ -4,7 +4,7 @@
   
 Help Ticky to recover his hats that were kidnapped by enemies.
 
- - [DOWNLOAD FOR ANDROID] {LINK}
+ - [DOWNLOAD FOR ANDROID] {https://play.google.com/store/apps/details?id=com.DuduBertolDev.TickysHats}
 
  - [DOWNLOAD FOR WINDOWS, MAC, LINUX](https://www.mediafire.com/file/imksy0e6pm34k9u/Ticky's+Hats.rar/file)
 
